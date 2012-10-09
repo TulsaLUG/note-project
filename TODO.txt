@@ -1,0 +1,17 @@
+This will serve as a simple todo list for planned features. Feel free to modify as project goals change.
+
+- Short Term -
+
+- Determine best tools to keep application platform-compatible
+- Ability to upload pictures, audio, text, files, and video
+- Ability to share resources with a group
+- User accounts
+- Basic social network structure
+- Design user-friendly interface
+
+- Long Term -
+
+- Realtime collaboration
+- Integration with existing social networks
+- Bookmarks in videos and audio recordings
+- Add audio files together?
