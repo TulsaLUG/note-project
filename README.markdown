@@ -9,7 +9,7 @@ In Windows
 In Linux (on Ubuntu)
 --------------------
 
-- Open a terminal:
+Open a terminal:
 
     $ sudo apt-get install apache2 curl git libmysqlclient-dev mysql-server nodejs
     $ sudo apt-get install ruby1.9.3
